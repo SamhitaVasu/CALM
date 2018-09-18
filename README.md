@@ -10,9 +10,9 @@
   ~ Bruce Nussbaum
 
 #### Cognitive Fluidity is the golden braid that connects everything that makes us uniquely human. 
-# 
+\s\s
 ------
-## Mission
+# Mission
 ### CALM develops the cognitive fluidity of people of any age through techniques and methods backed by research.
 
 This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/gocalm.github.io).
