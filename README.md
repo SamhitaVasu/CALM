@@ -1,5 +1,5 @@
 ## CALM
-#Creative Adaptive Lucid Mind
+# Creative Adaptive Lucid Mind
 ### Make America Human Again
 
 You can use the [editor on GitHub](https://github.com/SamhitaVasu/calm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
