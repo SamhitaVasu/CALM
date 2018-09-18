@@ -9,10 +9,10 @@
 ### "Knowledge Economy as we know it is being eclipsed by something new -- call it the Creative Economy."
   ~ Bruce Nussbaum
 
-Cognitive Fluidity is the golden braid that connects everything that makes us uniquely human. 
+### Cognitive Fluidity is the golden braid that connects everything that makes us uniquely human. 
 
 ## Mission
-CALM develops the cognitive fluidity of people of any age through techniques and methods backed by research.
+### CALM develops the cognitive fluidity of people of any age through techniques and methods backed by research.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
