@@ -10,7 +10,8 @@
   ~ Bruce Nussbaum
 
 #### Cognitive Fluidity is the golden braid that connects everything that makes us uniquely human. 
-\s\s
+
+&nbsp 
 ------
 # Mission
 ### CALM develops the cognitive fluidity of people of any age through techniques and methods backed by research.
