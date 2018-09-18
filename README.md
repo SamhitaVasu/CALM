@@ -10,7 +10,7 @@
 ### "Knowledge Economy as we know it is being eclipsed by something new -- call it the Creative Economy."
   ~ Bruce Nussbaum
 
-This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/calm.github.io).
+This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/gocalm.github.io).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
