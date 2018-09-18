@@ -14,13 +14,31 @@ Machines are beginning to take over the workforce. Merely acquiring, practicing,
 
 ------
 # Chapters
-## Each chapter has two components: tracks and projects.
+#### Each chapter has two components: tracks and projects.
 ### Chapter Tracks
 Each chapter of CALM has either a TED-Ed Club or a Founders Labs (or both!). Members get access to a real-world setting in which they create, develop, execute, and convey their ideas.
 ### Projects
 Each chapter has an approved project in which the chapter devises and executes a method to improve the cognitive fluidity of community members. 
-### Chapter Pages
+### Chapters
 #### Fremont High School
 #### Lawson Middle School
+&nbsp;
+
+------
+# Independent projects
+Members of CALM may submit independent projects that are proven by research to develop cognitive fluidity. Projects are published in CALM’s journal, and are eligible for awards and aid.
+&nbsp;
+
+------
+# Join today!
+Name
+_____
+School
+_____
+Grade level
+_____
+Anything else ?
+_____
+&nbsp;
 
 This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/gocalm.github.io).
