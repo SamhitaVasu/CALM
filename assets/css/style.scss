@@ -1,5 +1,7 @@
 ---
 ---
+
+@import "{{ site.theme }}";
 #title {
     border: 0;
     outline: none;
@@ -76,4 +78,3 @@
 
   }
 }
-@import "{{ site.theme }}";
