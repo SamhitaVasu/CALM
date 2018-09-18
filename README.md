@@ -1,5 +1,4 @@
-# Creative Adaptive Lucid Mind
-### Make America Human Again
+# Make America Human Again
 
 ### "It's just a matter of time before 100% of our jobs today are replaced by machines."
   ~ John Hagel
@@ -10,7 +9,10 @@
 ### "Knowledge Economy as we know it is being eclipsed by something new -- call it the Creative Economy."
   ~ Bruce Nussbaum
 
-This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/gocalm.github.io).
+Cognitive Fluidity is the golden braid that connects everything that makes us uniquely human. 
+
+## Mission
+CALM develops the cognitive fluidity of people of any age through techniques and methods backed by research.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -45,3 +47,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/gocalm.github.io).
