@@ -1,4 +1,4 @@
-background-image: url(https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg)
+.center[![center-aligned image](https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg)]
 
 # Make America Human Again
 
