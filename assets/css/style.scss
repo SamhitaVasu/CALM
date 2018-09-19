@@ -1,10 +1,11 @@
 ---
 ---
+@import "{{ site.theme }}";
 
 body {
   padding:0px 0 20px 0px;
   margin: 0px;
-  font:16px/1.5 Lato, sans-serif;
+  font:16px/1.5 'Lato', sans-serif;
   color:#f0e7d5;
   font-weight: light;
   background: #37474f;
@@ -15,7 +16,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#e8e8e8;
   margin:0 0 10px;
-  font-family: Oswald, sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-weight: light;
 }
 
@@ -306,4 +307,3 @@ section {
     display: none;
   }
 }
-@import "{{ site.theme }}";
