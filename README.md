@@ -1,5 +1,5 @@
-![center-aligned image](https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg)
-<img src="https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg">
+<img src="https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg" width="800">
+![]("https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg")
 
 # Make America Human Again
 
