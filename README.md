@@ -1,4 +1,5 @@
-.center[![center-aligned image](https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg)]
+![center-aligned image](https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg)
+<img src="https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg">
 
 # Make America Human Again
 
