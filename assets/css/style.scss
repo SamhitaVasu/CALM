@@ -1,12 +1,5 @@
 ---
 ---
-#title {
-    l1 {}
-    l2 {}
-    l3 {}
-    l4 {}
-}
-
 @import "{{ site.theme }}";
 #title {
     border: 0;
@@ -20,9 +13,10 @@
       font-size: 40px;
       text-align: center;
       line-height: 36px;
+      color: #e65a00;
     }
     
-    l1 {
+    <!-- l1 {
     font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       font-size: 40px;
@@ -57,7 +51,7 @@
       line-height: 36px;
       color: #4a86e8;
     }
-
+-->
     p {
       color: #d7cfbe;
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
