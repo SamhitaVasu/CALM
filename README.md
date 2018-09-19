@@ -1,4 +1,3 @@
-![]({% static 'https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg' %})
 ![](https://github.com/SamhitaVasu/CALM/blob/master/newCALMLogo.jpg)
 
 # Make America Human Again
