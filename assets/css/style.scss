@@ -1,7 +1,4 @@
 ---
----
-@import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Lato|Oswald');
 
 body {
   padding:0px 0 20px 0px;
@@ -308,3 +305,7 @@ section {
     display: none;
   }
 }
+
+---
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Lato|Oswald');
