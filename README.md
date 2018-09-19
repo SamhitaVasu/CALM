@@ -1,4 +1,4 @@
-![CALM] (SamhitaVasu.github.io/CALM/CALMlogo.png)
+![CALM](https://github.com/SamhitaVasu/CALM/edit/master/CALMlogo.png)
 
 # Make America Human Again
 
