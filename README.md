@@ -2,9 +2,6 @@
 
 > "It's just a matter of time before 100% of our jobs today are replaced by machines."
   ~ John Hagel
-
-> "The most valuable skills will be the ones that are uniquely human, that computers cannot quite figure out."
-  ~ Fareed Zakaria
   
 > "Knowledge Economy as we know it is being eclipsed by something new -- call it the Creative Economy."
   ~ Bruce Nussbaum
