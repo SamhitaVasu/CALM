@@ -21,7 +21,6 @@ Each chapter has an approved project in which the chapter devises and executes a
 ### Chapters
 #### **Fremont High School**
 #### **Lawson Middle School**
-&nbsp; 
 
 -------
 # Independent projects
