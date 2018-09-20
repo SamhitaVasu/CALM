@@ -8,7 +8,7 @@ body {
   margin: 0px;
   font:14px/1.5 Lato, sans-serif;
   color:#ffffff;
-  font-weight: normal;
+  font-weight: light;
   background: #37474f;
   background-attachment: fixed !important;
   background: linear_gradient(#2a2a29, #1c1c1c);
@@ -17,8 +17,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   color:#f5f5f5;
   margin:0 0 10px;
-  font-family: Lato, sans-serif;
-  font-weight: normal;
+  font-family: Lato, Oswald, sans-serif;
+  font-weight: light;
 }
 
 p, ul, ol, table, pre, dl {
@@ -45,8 +45,8 @@ h4, h5, h6 {
 h3 {
   font-size: 18px;
   line-height: 24px;
-  font-family: Lato, sans-serif !important;
-  font-weight: normal;
+  font-family: Oswald, sans-serif !important;
+  font-weight: light;
   color: #b6b6b6;
 }
 
@@ -132,7 +132,7 @@ th {
   border-bottom:1px solid #9e9e9e;
   color: #b6b6b6;
   font-family: Lato, sans-serif !important;
-  font-weight: normal;
+  font-weight: light;
 }
 
 td {
@@ -145,14 +145,14 @@ hr {
   border: 0;
   outline: none;
   height: 3px;
-  background: transparent url('../images/hr.gif') center center repeat-x;
+  background: transparent url('../border.png') center center repeat-x;
   margin: 0 0 20px;
 }
 
 dt {
   color:#e0e0e0;
   font-family: Lato, sans-serif !important;
-  font-weight: normal;
+  font-weight: light;
 }
 
 
@@ -176,7 +176,7 @@ dt {
 
     li {
       font-family: Lato, sans-serif;
-      font-weight: normal;
+      font-weight: light;
       list-style: none;
       display: inline;
       color: white;
@@ -239,8 +239,8 @@ section {
     padding: 0 0 5px 0;
 
     h1 {
-      font-family: Lato, sans-serif;
-      font-weight: normal;
+      font-family: Oswald, sans-serif;
+      font-weight: light;
       font-size: 40px;
       text-align: center;
       line-height: 36px;
@@ -249,7 +249,7 @@ section {
     p {
       color: #e0e0e0;
       font-family: Lato, sans-serif;
-      font-weight: normal;
+      font-weight: light;
       font-size: 18px;
       text-align: center;
     }
@@ -257,7 +257,7 @@ section {
     .credits {
       font-size: 11px;
       font-family: Lato, sans-serif;
-      font-weight: normal;
+      font-weight: light;
       color: #9e9e9e;
       margin-top: -10px;
 
