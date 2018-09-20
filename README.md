@@ -10,6 +10,7 @@
 Machines are beginning to take over the workforce. Merely acquiring, practicing, and applying many new skills and knowledge will no longer be enough. We need to develop the qualities that make us uniquely human, such as creativity, imagination, and curiosity. Cognitive fluidity is the golden braid that connects these qualities. 
 #### CALM provides various research-backed tools to develop and exercise cognitive fluidity.
 &nbsp;
+<span style="color:blue">
 # Chapters
 #### Each chapter has two components: tracks and projects. 
 ### Chapter Tracks
@@ -21,7 +22,7 @@ Each chapter has an approved project in which the chapter devises and executes a
 #### **Lawson Middle School**
 &nbsp; 
 &nbsp;
-
+</span>
 
 # Independent projects
 Members of CALM may submit independent projects that are proven by research to develop cognitive fluidity. Projects are published in CALM’s journal, and are eligible for awards and aid.
