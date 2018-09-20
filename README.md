@@ -1,5 +1,6 @@
 ![](newCALMLogo.jpg)
 
+------
 # Make America Human Again.
 > "It's just a matter of time before 100% of our jobs today are replaced by machines."
   ~ John Hagel
@@ -7,10 +8,10 @@
 > "Knowledge Economy as we know it is being eclipsed by something new -- call it the Creative Economy."
   ~ Bruce Nussbaum
 
-Machines are beginning to take over the workforce. Merely acquiring, practicing, and applying many new skills and knowledge will no longer be enough. We need to develop the qualities that make us uniquely human, such as creativity, imagination, and curiosity. Cognitive fluidity is the golden braid that connects these qualities. 
-#### CALM provides various research-backed tools to develop and exercise cognitive fluidity.
+Machines are beginning to take over the workforce. Merely acquiring, practicing, and applying many new skills and knowledge will no longer be enough. We need to develop the qualities that make us uniquely human, such as creativity, imagination, and curiosity. Cognitive fluidity is the golden braid that connects these qualities. ***CALM provides various research-backed tools to develop and exercise cognitive fluidity.***
 &nbsp;
-<body style="background-color:powderblue;">
+
+--------
 # Chapters
 #### Each chapter has two components: tracks and projects. 
 ### Chapter Tracks
@@ -20,13 +21,14 @@ Each chapter has an approved project in which the chapter devises and executes a
 ### Chapters
 #### **Fremont High School**
 #### **Lawson Middle School**
-</body>
 &nbsp; 
-&nbsp;
 
+-------
 # Independent projects
 Members of CALM may submit independent projects that are proven by research to develop cognitive fluidity. Projects are published in CALM’s journal, and are eligible for awards and aid.
+&nbsp;
 
+-------
 # Join today!
 <!-- <form action="mailto:svasu407@student.fuhsd.org" method="post" enctype="text/plain">
 Name:<br>
