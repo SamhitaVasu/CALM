@@ -44,7 +44,7 @@ Comment:<br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
 </form> -->
-Email Samhita Vasu: svasu407@student.fuhsd.org
+Email Samhita Vasu: <a href="mailto:svasu407@student.fuhsd.org">svasu407@student.fuhsd.org</a>
 &nbsp;
 
 <!-- This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/gocalm.github.io). -->
