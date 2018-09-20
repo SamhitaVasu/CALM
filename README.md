@@ -47,4 +47,4 @@ Comment:<br>
 Email Samhita Vasu: svasu407@student.fuhsd.org
 &nbsp;
 
-This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/gocalm.github.io).
+<!-- This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/gocalm.github.io). -->
