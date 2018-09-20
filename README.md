@@ -8,8 +8,8 @@
   ~ Bruce Nussbaum
 
 Machines are beginning to take over the workforce. Merely acquiring, practicing, and applying many new skills and knowledge will no longer be enough. We need to develop the qualities that make us uniquely human, such as creativity, imagination, and curiosity. Cognitive fluidity is the golden braid that connects these qualities. ***CALM provides various research-backed tools to develop and exercise cognitive fluidity.***
-# 
 &nbsp;
+*****
 # Chapters
 #### Each chapter has two components: tracks and projects. 
 &nbsp;
