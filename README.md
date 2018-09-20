@@ -30,7 +30,7 @@ Members of CALM may submit independent projects that are proven by research to d
 
 ------
 # Join today!
-<form action="mailto:svasu407@student.fuhsd.org" method="post" enctype="text/plain">
+<!-- <form action="mailto:svasu407@student.fuhsd.org" method="post" enctype="text/plain">
 Name:<br>
 <input type="text" name="name"><br>
 E-mail:<br>
@@ -43,7 +43,8 @@ Comment:<br>
 <input type="text" name="comment" size="50"><br><br>
 <input type="submit" value="Send">
 <input type="reset" value="Reset">
-</form>
+</form> -->
+Email Samhita Vasu: svasu407@student.fuhsd.org
 &nbsp;
 
 This is Creative Adaptive Lucid Mind's new website. Here is the [old website](https://samhitavasu.github.io/gocalm.github.io).
