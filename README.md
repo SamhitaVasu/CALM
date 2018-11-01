@@ -3,12 +3,9 @@
 ![](CALMDay.png)
 
 ### Attend CALM Day 2018 to...
-Learn why anyone can become as creative as Leonardo DaVinci and... 
-&nbsp;
-Hear engaging ideas and...
-&nbsp;
-Have a chance to win the #goCALM Challenge!
-&nbsp;
+Learn why anyone can become as creative as Leonardo DaVinci and...  &nbsp;
+Hear engaging ideas and... &nbsp;
+Have a chance to win the #goCALM Challenge! &nbsp;
 
 > [Save YOUR spot for free!](https://www.eventbrite.com/e/calm-day-2018-tickets-52036495559?fbclid=IwAR2GwWtxIM44jifvNiULjS2LDz7umN1TDT81S5S3qO44BxGR2x9Hnpbprk0)
 
