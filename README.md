@@ -3,9 +3,9 @@
 ![](CALMDay.png)
 
 ### Attend CALM Day 2018 to...
-Learn why anyone can become as creative as Leonardo DaVinci and...  &nbsp;
-Hear engaging ideas and... &nbsp;
-Have a chance to win the #goCALM Challenge! &nbsp;
+* Learn why anyone can become as creative as Leonardo DaVinci and...  
+* Hear engaging ideas and... 
+* Have a chance to win the #goCALM Challenge!
 
 > [Save YOUR spot for free!](https://www.eventbrite.com/e/calm-day-2018-tickets-52036495559?fbclid=IwAR2GwWtxIM44jifvNiULjS2LDz7umN1TDT81S5S3qO44BxGR2x9Hnpbprk0)
 
@@ -21,10 +21,10 @@ Machines are beginning to take over the workforce. Merely acquiring, practicing,
 &nbsp;
 
 --------
-# #goCALM Challenge
+# #goCALM Challenge 2018
 1. Enter as many ideas as you would like to publicly on Twitter, Instagram, or Facebook with "#goCALM".
 2. Attend CALM Day for Free.
-3. Top three ideas receive a $25 prize on stage at CALM Day.
+3. Top three ideas receive a $25 prize each on stage at CALM Day.
 4. Challenge ends November 10th, 2018.
 
 --------
