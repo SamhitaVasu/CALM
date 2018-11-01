@@ -2,6 +2,12 @@
 
 ![](CALMDay.png)
 
+# ATTEND CALM DAY 2018 to...
+Learn why anyone can become as creative as Leonardo DaVinci and...
+Hear engaging ideas and...
+Have a chance to win the #goCALM Challenge!
+## [Save YOUR spot for free!](https://www.eventbrite.com/e/calm-day-2018-tickets-52036495559?fbclid=IwAR2GwWtxIM44jifvNiULjS2LDz7umN1TDT81S5S3qO44BxGR2x9Hnpbprk0)
+
 ------
 # Make America Human Again.
 > "It's just a matter of time before 100% of our jobs today are replaced by machines."
