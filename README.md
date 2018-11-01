@@ -34,9 +34,6 @@ Machines are beginning to take over the workforce. Merely acquiring, practicing,
 Each chapter of CALM has either a TED-Ed Club or a Founders Labs (or both!). Members get access to a real-world setting in which they create, develop, execute, and convey their ideas.
 ### Projects
 Each chapter has an approved project in which the chapter devises and executes a method to improve the cognitive fluidity of community members. 
-### Chapters
-#### **Fremont High School**
-#### **Lawson Middle School**
 
 -------
 # Independent projects
