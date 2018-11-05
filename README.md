@@ -1,6 +1,6 @@
 ![](newCALMLogo.jpg)
 
-![](CALMDay.png)
+![](CALMDayPoster.png)
 
 ### Attend CALM Day 2018 to...
 * Learn why anyone can become as creative as Leonardo DaVinci and...  
