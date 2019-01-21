@@ -2,12 +2,7 @@
 
 ![](CALMDayPoster.png)
 
-### Attend CALM Day 2018 to...
-* Learn why anyone can become as creative as Leonardo DaVinci and...  
-* Hear engaging ideas and... 
-* Have a chance to win the #goCALM Challenge!
-
-[Save YOUR spot for free!](https://www.eventbrite.com/e/calm-day-2018-tickets-52036495559?fbclid=IwAR2GwWtxIM44jifvNiULjS2LDz7umN1TDT81S5S3qO44BxGR2x9Hnpbprk0)
+[Watch Highlights](https://youtu.be/-MYcJZLB7rE?t=192)
 
 ------
 # Make America Human Again.
@@ -21,23 +16,16 @@ Machines are beginning to take over the workforce. Merely acquiring, practicing,
 &nbsp;
 
 --------
-# #goCALM Challenge 2018
-1. Enter as many ideas as you would like to publicly on Twitter, Instagram, or Facebook with "#goCALM".
-2. Attend CALM Day for Free.
-3. Top three ideas receive a $25 prize each on stage at CALM Day.
-4. Challenge ends November 10th, 2018.
-
---------
-# Chapters
-#### Each chapter has two components: tracks and projects. 
-### Chapter Tracks
-Each chapter of CALM has either a TED-Ed Club or a Founders Labs (or both!). Members get access to a real-world setting in which they create, develop, execute, and convey their ideas.
-### Projects
-Each chapter has an approved project in which the chapter devises and executes a method to improve the cognitive fluidity of community members. 
-
--------
-# Independent projects
-Members of CALM may submit independent projects that are proven by research to develop cognitive fluidity. Projects are published in CALM’s journal, and are eligible for awards and aid.
+# Components
+## TED-Ed Clubs
+## Founders Lab
+Selected projects will get access to CALM's Board of Mentors, comprising of successful entrepreneurs and professionals from the Silicon Valley.
+<a href="mailto:svasu407@student.fuhsd.org">Learn more about submitting a project proposal today!</a>
+## Projects
+Members of CALM may submit independent projects that are proven by research to develop cognitive fluidity. 
+### Past and Present Projects
+* The CALM Toolbox
+* Creativity App with Triads
 &nbsp;
 
 -------
