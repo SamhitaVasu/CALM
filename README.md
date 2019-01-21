@@ -2,7 +2,7 @@
 
 ![](CALMDayPoster.png)
 
-<h3 style="text-align: center;" markdown="1"> [Watch Highlights](https://youtu.be/-MYcJZLB7rE?t=192) </h3> 
+### <h3 style="text-align: center;" markdown="1"> [Watch Highlights](https://youtu.be/-MYcJZLB7rE?t=192) </h3> 
 &nbsp;
 
 ------
