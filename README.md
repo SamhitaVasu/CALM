@@ -2,7 +2,9 @@
 
 ![](CALMDayPoster.png)
 
-## [Watch Highlights](https://youtu.be/-MYcJZLB7rE?t=192)
+### [Watch Highlights](https://youtu.be/-MYcJZLB7rE?t=192)
+&nbsp;
+&nbsp;
 
 ------
 # Make America Human Again.
@@ -17,11 +19,11 @@ Machines are beginning to take over the workforce. Merely acquiring, practicing,
 
 --------
 # Components
-### TED-Ed Clubs
-### Founders Lab
+### * TED-Ed Clubs
+### * Founders Lab
 Selected projects will get access to CALM's Board of Mentors, comprising of successful entrepreneurs and professionals from the Silicon Valley.
 <a href="mailto:svasu407@student.fuhsd.org">Learn more about submitting a project proposal today!</a>
-### Projects
+### * Chapter Projects
 Members of CALM may submit independent projects that are proven by research to develop cognitive fluidity. 
 &nbsp;
 
