@@ -2,7 +2,7 @@
 
 ![](CALMDayPoster.png)
 
-### [Watch Highlights](https://youtu.be/-MYcJZLB7rE?t=192)
+-> [Watch Highlights](https://youtu.be/-MYcJZLB7rE?t=192) <-
 &nbsp;
 
 ------
