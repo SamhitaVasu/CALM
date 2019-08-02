@@ -4,9 +4,8 @@
 
 <h1 style="text-align: center;" markdown="1"> [Watch Highlights](https://youtu.be/-MYcJZLB7rE?t=192) </h1> 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+-------
 # Make America Human Again.
 > "It's just a matter of time before 100% of our jobs today are replaced by machines."
   ~ John Hagel
@@ -16,9 +15,8 @@
 
 Machines are beginning to take over the workforce. Merely acquiring, practicing, and applying many new skills and knowledge will no longer be enough. We need to develop the qualities that make us uniquely human, such as creativity, imagination, and curiosity. Cognitive fluidity is the golden braid that connects these qualities. ***CALM provides various research-backed tools to develop and exercise cognitive fluidity.***
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
+-------
 # Components
 ### TED-Ed Clubs
 ### Founders Lab
