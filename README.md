@@ -25,8 +25,7 @@ Selected projects will get access to CALM's Board of Mentors, comprising of succ
 ### Chapter Projects
 Members of CALM may submit independent projects that are proven by research to develop cognitive fluidity. 
 &nbsp;
-
--------
+![](white_divider4.png)
 # Join today!
 <!-- <form action="mailto:svasu407@student.fuhsd.org" method="post" enctype="text/plain">
 Name:<br>
