@@ -16,7 +16,7 @@
 Machines are beginning to take over the workforce. Merely acquiring, practicing, and applying many new skills and knowledge will no longer be enough. We need to develop the qualities that make us uniquely human, such as creativity, imagination, and curiosity. Cognitive fluidity is the golden braid that connects these qualities. ***CALM provides various research-backed tools to develop and exercise cognitive fluidity.***
 &nbsp;
 
--------
+![](white_divider4.png)
 # Components
 ### TED-Ed Clubs
 ### Founders Lab
