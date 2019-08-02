@@ -5,7 +5,7 @@
 <h1 style="text-align: center;" markdown="1"> [Watch Highlights](https://youtu.be/-MYcJZLB7rE?t=192) </h1> 
 &nbsp;
 
-![](white_divider.png)
+![](white_divider2.png)
 # Make America Human Again.
 > "It's just a matter of time before 100% of our jobs today are replaced by machines."
   ~ John Hagel
